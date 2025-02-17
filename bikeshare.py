@@ -165,7 +165,7 @@ def user_stats(df):
 
     if 'Gender' in df.columns:    
         gender = df['Gender'].value_counts()
-        print(gender)
+        print("Print gender count number", gender)
 
     if 'Birth Year' in df.columns:
         print('Earliest year of Birth:', df['Birth Year'].min())
