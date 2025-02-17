@@ -8,6 +8,7 @@ This project was added in **17/02/2025**
 
 ### Description
 This project uses python to filter and get insights from 3 different data sets
+new description to be added 
 
 ### Files used
 bikeshare.py
