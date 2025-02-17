@@ -77,8 +77,6 @@ def load_data(city, month, day):
     if day != 'all':
         # Filtering by day of week to create the new dataframe
         df = df[df['day_of_week'] == day.title()]
-
-
     return df
 
 
